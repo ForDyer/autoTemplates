@@ -1,2 +1,2 @@
 # autoTemplates
-Templates for autotesting
+Templates for autotests creation and maintenance
