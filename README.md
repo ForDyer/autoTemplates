@@ -1,0 +1,2 @@
+# autoTemplates
+Templates for autotesting
